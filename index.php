@@ -31,7 +31,6 @@ if(isset($_SESSION['username'])) {
 }
 
 ?>
-
 <div class="row">
 	<div class="bg"></div>
 </div>
